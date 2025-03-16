@@ -64,6 +64,7 @@ Projenin tanıtım videosunu aşağıdaki bağlantıdan izleyebilirsiniz:
 Proje erişimi için aşağıdaki linkleri kullanabilirsiniz:
 - https://ilbgginsaat.000webhostapp.com/
 - https://ilbgginsaat.000webhostapp.com/giris.php
-Projeye erişmede problem yaşarsanız arama motorunu https://ilbgginsaat.000webhostapp.com/giris.php bunu yazıp /giris.php kısmını elle sildikten sonra tekrar deneyiniz.
-Sayfaya erişirken yeniden denemeniz gerekirse ısrarla yeniden dene sekmesine tıklarsanız da site görünür olabilir.
+
+Projeye erişmede problem yaşarsanız arama motoruna **https://ilbgginsaat.000webhostapp.com/giris.php** yazıp **/giris.php** kısmını manuel sildikten sonra tekrar deneyiniz.
+Sayfaya erişirken yeniden denemeniz gerekirse ısrarla **yeniden dene** sekmesine tıklarsanız site görünür olabilir.
 
