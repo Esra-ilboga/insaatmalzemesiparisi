@@ -55,10 +55,13 @@ Bu proje, bir inşaat firmasının mevcut malzeme envanterini ve sipariş süre�
 - **Responsive Tasarım:** Bootstrap ile tasarlanan sistem, mobil cihazlarda da rahatça kullanılabilir.  
 - **Veritabanı Desteği:** MySQL ile entegre çalışan sistem, verilerin güvenli bir şekilde saklanmasını sağlar.
 
-# PROJE VİDEOSU
-- https://www.youtube.com/watch?v=C1Ndg_rMISs
-# PROJE ERİŞİMİ
-bu linkten oyunu oynayabilirsiniz: 
+## Proje Videosu
+Projenin tanıtım videosunu aşağıdaki bağlantıdan izleyebilirsiniz:
+- [Proje Tanıtım Videosu](https://www.youtube.com/watch?v=C1Ndg_rMISs)
+
+## Projeye Erişim
+
+Proje erişimi için aşağıdaki linkleri kullanabilirsiniz:
 - https://ilbgginsaat.000webhostapp.com/
 - https://ilbgginsaat.000webhostapp.com/giris.php
 Projeye erişmede problem yaşarsanız arama motorunu https://ilbgginsaat.000webhostapp.com/giris.php bunu yazıp /giris.php kısmını elle sildikten sonra tekrar deneyiniz.
