@@ -1,3 +1,19 @@
+# İnşaat Malzemeleri Sipariş ve Yönetim Sistemi
+
+**İnşaat Malzemeleri Sipariş Sistemi**, inşaat sektöründeki firmaların, kullanıcıların ihtiyaçlarına göre yapı malzemelerini kolayca sipariş edebileceği bir platform sunar. Bu sistem, kullanıcı dostu arayüzüyle malzeme siparişlerini hızlı ve güvenli bir şekilde yönetmeye olanak tanır.
+
+## Proje Özeti
+
+Bu proje, bir inşaat firmasının mevcut malzeme envanterini ve sipariş süreçlerini dijital ortamda yönetebilmesini sağlayan bir platform sunar. Kullanıcılar, sisteme kayıt olduktan sonra malzeme listelerini görüntüleyebilir, sipariş verebilir ve geçmiş siparişlerini yönetebilir. Ayrıca sistem, her kullanıcıya özel siparişlerini düzenleme ve silme yetkisi tanır.
+
+### Ana Sayfa Özellikleri
+
+- **Kullanıcı Girişi ve Kayıt:** Sisteme giriş yaparak veya yeni bir kullanıcı olarak kaydolarak anasayfaya erişebilirsiniz.  
+- **Ürünler ve Fiyatlar:** Ana sayfada, firma açıklamalarıyla birlikte mevcut yapı malzemelerinin fiyatları görüntülenebilir.  
+- **Sipariş Formu:** Malzeme siparişi vermek için kullanıcı dostu bir form sunulmaktadır.  
+- **Siparişlerim:** Kullanıcılar, bu sekmeden önceki siparişlerine ulaşabilir, siparişlerini düzenleyebilir veya silebilir.  
+- **Çıkış Yap:** Kullanıcılar, sistemden güvenli bir şekilde çıkış yapabilir.
+
 # PROJE AMACI
 - İnşaat firmasında var olan yapı malzemelerinin siparişi.
 # PROJE AÇIKLAMA
