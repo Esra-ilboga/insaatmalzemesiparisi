@@ -14,23 +14,47 @@ Bu proje, bir inşaat firmasının mevcut malzeme envanterini ve sipariş süre�
 - **Siparişlerim:** Kullanıcılar, bu sekmeden önceki siparişlerine ulaşabilir, siparişlerini düzenleyebilir veya silebilir.  
 - **Çıkış Yap:** Kullanıcılar, sistemden güvenli bir şekilde çıkış yapabilir.
 
-# PROJE AMACI
-- İnşaat firmasında var olan yapı malzemelerinin siparişi.
-# PROJE AÇIKLAMA
-- Projenin anasayfasına erişmeniz için hesabınız varsa giriş yapmış olmanız, hesabınız yoksa da kayıt yapmış olmanız gerekmektedir. Anasayfada şirketin açıklamaları, var olan yapı malzemeleri
-ve fiyatları, sipariş vermeyi sağlayan bir form, üstte siparişlerinize erişmenizi sağlayacak siparişlerim sekmesi, çıkış yapmayı sağlayacak çıkış sekmesi ve malzeme tablosunun altında GitHub linkine erişimi
-sağlayan Git butonu bulunmakta. Siparişlerim sekmesinde aktif kullanıcının siparişleri yer almakta , bu siparişleri düzenleyebilmekte ve silebilmektedir. Son olarak işlemlerin bitiminde anasayfadaki
-çıkış yap sekmesinden hesabınızdan güvenle ayrılabilirsiniz.
-# KULLANILAN TEKNOLOJİLER
-- HTML
-- Bootstrap
-- php
-- MySql
-# PROJENİN BİLGİSAYARA KURULUMU
-- Öncelikle XAMPP altındaki htdocs adlı dosyaya, projedeki php uzantılı tüm dosyaları indirip tasışyalım. Htdocs kısmında sadece bu dosyaların olması daha iyi olabilir.Ayrıca bu dosyaları klasör içine almayın
-içinde bulunacakları tek dosya ismi olsun o da XAMPP içindeki htdocs. Daha sonra XAMPP Control Panel'ini açın. Apache ve MySQL karşısındaki start butonlarına basın ve çalıştırın ikisinin de yeşil renge dönmesine
-dikkat edin. Daha sonra [localhost](http://localhost/phpmyadmin ) adresine gidin ve "insaat" adında veritabanı oluşturun. Oluşturduğunuz veritabanında içe aktar seçeneğine tıklayıp insaat.sql uzantılı dosyayı yükleyin
-ve kaydedin. http://localhost/giris.php üzerinden projenin giriş sayfasına erişirsiniz. Bundan sonra istediğiniz işlemi gerçekleştirebilirsiniz. 
+### Kullanıcı Arayüzü
+
+- **GitHub Entegrasyonu:** Proje GitHub ile entegre olup, kodların erişilebilirliğini sağlayan bir buton içerir.  
+- **Mobil Uyumluluk:** Bootstrap kullanılarak tasarlanan sayfa, farklı cihazlar için uyumlu hale getirilmiştir.
+
+## Kullanılan Teknolojiler
+
+- **HTML5:** Sayfanın yapısının oluşturulmasında temel yapı taşları kullanılmıştır.
+- **Bootstrap:** Sayfanın modern, mobil uyumlu ve kullanıcı dostu görünmesi için Bootstrap CSS framework’ü kullanılmıştır.
+- **PHP:** Dinamik işlevsellik ve sunucu tarafı işlemler için PHP dilinden yararlanılmıştır.
+- **MySQL:** Veritabanı yönetimi ve veri saklama işlemleri için MySQL veritabanı kullanılmıştır.
+
+## Proje Kurulumu
+
+### Gereksinimler
+
+- **XAMPP:** Apache ve MySQL servislerini çalıştırmak için XAMPP kullanmanız gerekmektedir.
+- **Web Tarayıcısı:** Projeyi test etmek için herhangi bir modern web tarayıcısı (Chrome, Firefox vb.) kullanabilirsiniz.
+
+### Kurulum Adımları
+
+1. **XAMPP'yi İndirin:** [XAMPP İndir](https://www.apachefriends.org/download.html)
+2. **Proje Dosyalarını İndirin:** Projenin PHP dosyalarını XAMPP'in `htdocs` klasörüne yükleyin. Proje dosyalarının tek bir klasörde olmasına dikkat edin.
+3. **XAMPP’i Başlatın:**
+   - XAMPP Control Panel’i açın.
+   - Apache ve MySQL servislerini başlatın ve yeşil renkte göründüğünden emin olun.
+4. **Veritabanı Oluşturun:**
+   - Web tarayıcınızda [http://localhost/phpmyadmin](http://localhost/phpmyadmin) adresine gidin.
+   - Yeni bir veritabanı oluşturun (örneğin, `insaat`).
+   - Veritabanı içine, `insaat.sql` dosyasını içe aktarın.
+5. **Proje Erişimi:**
+   - Tarayıcınızda [http://localhost/giris.php](http://localhost/giris.php) adresine gidin ve giriş yapın.
+
+## Özellikler
+
+- **Kullanıcı Kaydı ve Girişi:** Kullanıcılar sisteme yeni kaydolabilir veya mevcut hesaplarıyla giriş yapabilir.  
+- **Sipariş Yönetimi:** Kullanıcılar, malzeme siparişlerini verebilir, geçmiş siparişlerini düzenleyebilir veya silebilir.  
+- **GitHub Entegrasyonu:** GitHub üzerinden projeye erişebilir ve katkı sağlayabilirsiniz.  
+- **Responsive Tasarım:** Bootstrap ile tasarlanan sistem, mobil cihazlarda da rahatça kullanılabilir.  
+- **Veritabanı Desteği:** MySQL ile entegre çalışan sistem, verilerin güvenli bir şekilde saklanmasını sağlar.
+
 # PROJE VİDEOSU
 - https://www.youtube.com/watch?v=C1Ndg_rMISs
 # PROJE ERİŞİMİ
